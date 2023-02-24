@@ -7,13 +7,21 @@ Speaker Verification Task
 
 [(링크) 제공 데이터셋 (100명) / 2.42GB / 12,290 audio files](https://drive.google.com/file/d/1IWLUR3HxF0YO_O6PIJhm0KzcfHjElx-M/view?usp=sharing)
 
+[(링크 변경!) 제공 데이터셋 (100명) / 2.42GB / 12,290 audio files](https://drive.google.com/file/d/1QGZKLTM_ajwVh9ZLi_5dSt8IQTGEoNjT/view?usp=sharing)
+
 [preprocess label (txt file) 2.9MB](https://drive.google.com/file/d/1O4C36yIa21vjhxntyjPTP5_GEXMOA1nK/view?usp=sharing)
+
+[preprocess label (txt file) 2.9MB](https://drive.google.com/file/d/1jw_XZdtqIAcPvM5gFVoOuHlSzWL8-c4a/view?usp=sharing)
 
 [2] Voxceleb2 발췌
 
 [(링크) 제공 데이터셋 (50명) / 3.76GB / 32,040 audio files](https://drive.google.com/file/d/1tkH0Zga_ilxgTKpAA11yEfqfg9p9bijX/view?usp=sharing)
 
+[(링크 변경!) 제공 데이터셋 (50명) / 3.76GB / 32,040 audio files](https://drive.google.com/file/d/1p9Cyq38is-ymqSEeFJF1VgREa81rpsAJ/view?usp=sharing)
+
 [preprocess label (txt file) 3.8MB](https://drive.google.com/file/d/1HB-2xxZDIGpDAtP3VQwTcM7pE7VoXxi3/view?usp=sharing)
+
+[preprocess label (txt file) 3.8MB](https://drive.google.com/file/d/1RgYrPYnd6Uv9DuGw4YKdArpe41xRBg7w/view?usp=sharing)
 
 ---
 * Label txt explanation
