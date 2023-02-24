@@ -11,7 +11,7 @@ Speaker Verification Task
 
 [preprocess label (txt file) 2.9MB](https://drive.google.com/file/d/1O4C36yIa21vjhxntyjPTP5_GEXMOA1nK/view?usp=sharing)
 
-[preprocess label (txt file) 2.9MB](https://drive.google.com/file/d/1jw_XZdtqIAcPvM5gFVoOuHlSzWL8-c4a/view?usp=sharing)
+[링크 변경 preprocess label (txt file) 2.9MB](https://drive.google.com/file/d/1jw_XZdtqIAcPvM5gFVoOuHlSzWL8-c4a/view?usp=sharing)
 
 [2] Voxceleb2 발췌
 
@@ -21,7 +21,7 @@ Speaker Verification Task
 
 [preprocess label (txt file) 3.8MB](https://drive.google.com/file/d/1HB-2xxZDIGpDAtP3VQwTcM7pE7VoXxi3/view?usp=sharing)
 
-[preprocess label (txt file) 3.8MB](https://drive.google.com/file/d/1RgYrPYnd6Uv9DuGw4YKdArpe41xRBg7w/view?usp=sharing)
+[링크 변경 preprocess label (txt file) 3.8MB](https://drive.google.com/file/d/1RgYrPYnd6Uv9DuGw4YKdArpe41xRBg7w/view?usp=sharing)
 
 ---
 * Label txt explanation
